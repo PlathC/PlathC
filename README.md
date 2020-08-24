@@ -1,5 +1,3 @@
-# Introduction
-
 My name is Cyprien Plateau--Holleville, I'm a computer science student mainly interested in computer graphics and computer vision. This Github profile host mostly personnal and school projects.
 
 | Project                                                                                                                                                                                           | Description                                                                                                                                                                                                                                                                                               |
